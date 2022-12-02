@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -h vicient:staff _hello
